@@ -1,0 +1,7 @@
+Property_ID,Location,Property_Type,Area_sqft,Bedrooms,Price,Amenities
+P001,Pune,Apartment,1200.0,2,6000000,High
+P002,Mumbai,House,1800.0,3,12000000,High
+P003,Pune,Apartment,1000.0,2,5000000,High
+P004,Delhi,House,2000.0,4,15000000,Medium
+P005,Mumbai,Apartment,900.0,2,7000000,High
+P006,Pune,House,1333.3333333333333,3,9000000,High
